@@ -74,7 +74,7 @@ Open PowerShell, change directory where you code cloned, then run the deploy scr
 cd .\Deployment\  
 ```  
 ```
-.\resourdedeployment.ps1
+.\resourcedeployment.ps1
 ```
 
 If you run into issue with PowerShell script file not being digitally signed, you can execute below command:
